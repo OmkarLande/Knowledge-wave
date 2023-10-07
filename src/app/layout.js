@@ -22,7 +22,7 @@ const pacifico = Pacifico({
   subsets: ["latin"],
   display: "swap",
   variable: "--font-pa",
-  weight: '400'
+  weight: "400",
 });
 
 export const metadata = {
